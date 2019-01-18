@@ -24,7 +24,7 @@ Please refer to sample/Simple.
 
 ## Template Syntax
 - text/template`s syntax
-  - This application is thin wrapper that text/template. So you can use text/template`s syntax.
+  - This application is a thin wrapper of "text/template".
 
 - Println "any string"
   - Show string in cli.
