@@ -1,0 +1,14 @@
+global_parameters:
+- key:
+    GLOBAL_VALUE
+  value:
+    THIS IS GLOBAL VALUE
+
+tasks:
+- task_name: simple0
+  template_from: ./simple0.txt.template
+  deploy_to: ./simple0.txt
+
+- task_name: simple1
+  template_from: ./simple1.txt.template
+  deploy_to: ./simple1.txt

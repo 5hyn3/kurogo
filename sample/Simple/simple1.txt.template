@@ -1,0 +1,7 @@
+{{Println "Start generating simple1.txt." -}}
+{{$name := RequestParameter "Input your name" -}}
+
+Hello {{$name}}!
+
+This is Global Value.
+<<{{SetGlobalParameter "GLOBAL_VALUE"}}>>
