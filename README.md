@@ -20,7 +20,7 @@ Please refer to item "Template Syntax" below
 kurogo *.yml
 ```
 
-Please refer to sample/Simple.
+Please refer to [sample/Simple](https://github.com/5hyn3/kurogo/tree/master/sample/Simple).
 
 ## Template Syntax
 - text/template`s syntax
