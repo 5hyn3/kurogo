@@ -1,6 +1,6 @@
 # Kurogo
 This is a simple template processor by golang.
-
+
 # How to use
 
 1. Write config file with yaml.
@@ -14,7 +14,7 @@ Please refer to item "Template Syntax" below
 kurogo *.yml
 ```
 
-Please refer to sample/Simple.
+Please refer to sample/Simple.
 
 ## Template Syntax
 - text/template`s syntax
