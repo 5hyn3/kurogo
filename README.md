@@ -1,6 +1,12 @@
 # Kurogo
 This is a simple template processor by golang.
 
+# How to install
+```bash
+go get -u github.com/5hyn3/kurogo/kurogo
+```
+
+
 # How to use
 
 1. Write config file with yaml.
